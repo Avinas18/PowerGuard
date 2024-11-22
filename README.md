@@ -49,7 +49,7 @@ This system aids in:
 - 🔄 Promoting sustainable practices.
 - 
 ### Circuit Diagram 🛠
-![Circuit Diagram](circuit-diagram.jpg)
+![Circuit Diagram](circuitdiagram.jpg)
 
 ---
 
