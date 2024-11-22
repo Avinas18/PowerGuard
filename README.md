@@ -18,7 +18,7 @@ This project focuses on developing a **Smart Energy Monitoring System** using AI
 
 ---
 ### Energy Monitoring 📊
-![Energy Monitoring](images/energy-monitoring.png)
+![Energy Monitoring](images/Flowchart.png)
 
 ## 🔬 Methodology
 1. **Hardware Setup** 🛠:
