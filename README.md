@@ -49,7 +49,7 @@ This system aids in:
 - 🔄 Promoting sustainable practices.
 - 
 ### Circuit Diagram 🛠
-![Circuit Diagram](images/circuit-diagram.png)
+![Circuit Diagram](circuit-diagram.png)
 
 ---
 
@@ -63,7 +63,8 @@ This system aids in:
 ---
 
 ### Energy Monitoring 📊
-![Energy Monitoring](images/energy-monitoring.png)
+![Energy Monitoring](Output1.png)
+![Energy Monitoring](Output2.png)
 
 ## 📜 References
 - [Blynk Documentation](https://docs.blynk.io/)
