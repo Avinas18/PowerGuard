@@ -1,0 +1,2 @@
+# PowerGuard-ML-Driven-Energy-Monitor-with-Efficiency-Insights-Anomaly-Detection
+**PowerGuard** is an AI-powered energy monitoring system that optimizes power usage, detects anomalies, and provides real-time insights via IoT. Featuring ESP32-based hardware, machine learning models, and Blynk integration, it empowers users to reduce costs, enhance efficiency, and promote sustainable energy practices.
